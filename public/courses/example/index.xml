@@ -1,110 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>📊 Learn Data Science | Academic</title>
+    <title>All my certificates | Kevin Sánchez Website</title>
     <link>/courses/example/</link>
       <atom:link href="/courses/example/index.xml" rel="self" type="application/rss+xml" />
-    <description>📊 Learn Data Science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>All my certificates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/courses/example/featured.jpg</url>
-      <title>📊 Learn Data Science</title>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>All my certificates</title>
       <link>/courses/example/</link>
     </image>
     
     <item>
-      <title>Python basics</title>
-      <link>/courses/example/python/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/python/</guid>
-      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+      <title>Fundamentals of Rocket Science with Falcon 9</title>
+      <link>/courses/example/f9/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/example/f9/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
-&lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Earned with Udemy&lt;/li&gt;
+&lt;li&gt;Instructor: Arjit Raj, Mechanical Engineer and Quora Top Writer&lt;/li&gt;
+&lt;li&gt;Type: Online course&lt;/li&gt;
+&lt;li&gt;Issued: Dec. 23, 2020&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Tuples&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
-&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fundamentals of Falcon 9 rocket&lt;/li&gt;
+&lt;li&gt;Fundamentals of rocket science and rocket engines&lt;/li&gt;
+&lt;li&gt;Rocket dynamics and motion control&lt;/li&gt;
+&lt;li&gt;Stage separation and stage landing&lt;/li&gt;
+&lt;li&gt;Payload module&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
-&lt;/details&gt;</description>
+&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;p&gt;You can see it here: &lt;a href=&#34;https://www.udemy.com/certificate/UC-de7ec345-bee1-472f-bc94-51452a8255a7/&#34;&gt;https://www.udemy.com/certificate/UC-de7ec345-bee1-472f-bc94-51452a8255a7/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Visualization</title>
-      <link>/courses/example/visualization/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/visualization/</guid>
-      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
-  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
-data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
-fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
-fig.show()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/p&gt;
-&lt;/details&gt;</description>
+      <title>Intermediate Python</title>
+      <link>/courses/example/pythoncer/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/example/pythoncer/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Earned with Datacamp&lt;/li&gt;
+&lt;li&gt;Instructor: Datacamp&lt;/li&gt;
+&lt;li&gt;Type: Online course&lt;/li&gt;
+&lt;li&gt;Issued:  Dec. 21, 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python programming&lt;/li&gt;
+&lt;li&gt;Create lists, dictionaries, arrays, functions and loops.&lt;/li&gt;
+&lt;li&gt;Introduction to Numpy, Pandas and Matplotlib.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;p&gt;You can see it here: &lt;a href=&#34;https://drive.google.com/file/d/1wUp0CMrV5wpgcXgFdEhK32WApYg_EKKq/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/1wUp0CMrV5wpgcXgFdEhK32WApYg_EKKq/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Statistics</title>
-      <link>/courses/example/stats/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/stats/</guid>
-      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
-  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
-&lt;/details&gt;</description>
+      <title>Internet of things</title>
+      <link>/courses/example/iot/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/example/iot/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Earned with CISCO&lt;/li&gt;
+&lt;li&gt;Instructor: Cisco Networking Academy&lt;/li&gt;
+&lt;li&gt;Type: Online course&lt;/li&gt;
+&lt;li&gt;Issued: Sept.06, 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IoT in companies and governments.&lt;/li&gt;
+&lt;li&gt;Softwares and data for society.&lt;/li&gt;
+&lt;li&gt;Machine Learning and Artificial Intelligence to digital transformation.&lt;/li&gt;
+&lt;li&gt;Importance of security in the digitized world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;p&gt;You can see it here: &lt;a href=&#34;https://drive.google.com/file/d/10ahoUcxwpDBHt-w0ndIIrWI56FSbI4N6/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/10ahoUcxwpDBHt-w0ndIIrWI56FSbI4N6/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Astronautics and Human Spaceflight</title>
+      <link>/courses/example/astro1/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/example/astro1/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Earned with Edx&lt;/li&gt;
+&lt;li&gt;Instructor: Jeffrey Alan Hoffman, Massachusetts Institute of Technology&lt;/li&gt;
+&lt;li&gt;Type: Online course&lt;/li&gt;
+&lt;li&gt;Issued: Aug. 04, 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocket Science&lt;/li&gt;
+&lt;li&gt;Environmental control and life support systems&lt;/li&gt;
+&lt;li&gt;Orbital Mechanics&lt;/li&gt;
+&lt;li&gt;Microgravity and space physiology&lt;/li&gt;
+&lt;li&gt;Extravehicular activity&lt;/li&gt;
+&lt;li&gt;System safety&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;p&gt;You can see it here: &lt;a href=&#34;https://courses.edx.org/certificates/07db4d186ed3457f84d712aac12fca1a&#34;&gt;https://courses.edx.org/certificates/07db4d186ed3457f84d712aac12fca1a&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -3,27 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example-talk/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -33,13 +18,33 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>/courses/example/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>/courses/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/f9/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/pythoncer/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/iot/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/astro1/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +68,7 @@
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/author/kevin-sanchez-r./</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -219,10 +224,6 @@
   
   <url>
     <loc>/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

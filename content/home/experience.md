@@ -30,6 +30,7 @@ experience:
     date_end: ''
     description: |2-
         Activities include:
+        * The most important activity in which I participate is in the observation the minerals and water presence near the surface of Mars planet.
         * Teamwork with international students from other universities under virtual communication.
         * Planning, development and research of space projects related to GIS and Remote Sensing.
         
