@@ -120,7 +120,7 @@ address = {city = "San Jose", region = "Costa Rica", country = "Costa Rica"}
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
@@ -172,10 +172,11 @@ plugins_js  = []
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
-
+  avatar = "avatar"
+  
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
-
+  
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://wowchemy.com/docs/customization/#date-format )

@@ -7,7 +7,7 @@
     <description>Kevin Sánchez Website</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>media/avatar.jpg</url>
       <title>Kevin Sánchez Website</title>
       <link>/</link>
     </image>
@@ -52,7 +52,7 @@
 &lt;li&gt;Stage separation and stage landing&lt;/li&gt;
 &lt;li&gt;Payload module&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;h2 id=&#34;certificate&#34;&gt;Certificate&lt;/h2&gt;
 &lt;p&gt;You can see it here: &lt;a href=&#34;https://www.udemy.com/certificate/UC-de7ec345-bee1-472f-bc94-51452a8255a7/&#34;&gt;https://www.udemy.com/certificate/UC-de7ec345-bee1-472f-bc94-51452a8255a7/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -67,7 +67,7 @@
 &lt;li&gt;Earned with Datacamp&lt;/li&gt;
 &lt;li&gt;Instructor: Datacamp&lt;/li&gt;
 &lt;li&gt;Type: Online course&lt;/li&gt;
-&lt;li&gt;Issued:  Dec. 21, 2020&lt;/li&gt;
+&lt;li&gt;Issued: Dec. 21, 2020&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
 &lt;ul&gt;
@@ -75,7 +75,7 @@
 &lt;li&gt;Create lists, dictionaries, arrays, functions and loops.&lt;/li&gt;
 &lt;li&gt;Introduction to Numpy, Pandas and Matplotlib.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;h2 id=&#34;certificate&#34;&gt;Certificate&lt;/h2&gt;
 &lt;p&gt;You can see it here: &lt;a href=&#34;https://drive.google.com/file/d/1wUp0CMrV5wpgcXgFdEhK32WApYg_EKKq/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/1wUp0CMrV5wpgcXgFdEhK32WApYg_EKKq/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -99,8 +99,32 @@
 &lt;li&gt;Machine Learning and Artificial Intelligence to digital transformation.&lt;/li&gt;
 &lt;li&gt;Importance of security in the digitized world.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;h2 id=&#34;certificate&#34;&gt;Certificate&lt;/h2&gt;
 &lt;p&gt;You can see it here: &lt;a href=&#34;https://drive.google.com/file/d/10ahoUcxwpDBHt-w0ndIIrWI56FSbI4N6/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/10ahoUcxwpDBHt-w0ndIIrWI56FSbI4N6/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interplanetary Vehicles and Satellite Engineering</title>
+      <link>/courses/example/vehiculos/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/example/vehiculos/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Earned with Udemy&lt;/li&gt;
+&lt;li&gt;Instructor: Lluis Foreman, Aerospace Engineer&lt;/li&gt;
+&lt;li&gt;Type: Online course&lt;/li&gt;
+&lt;li&gt;Issued:  Oct. 14, 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Space environment and its characteristics&lt;/li&gt;
+&lt;li&gt;Propulsion systems&lt;/li&gt;
+&lt;li&gt;Telecommunications from space to Earth&lt;/li&gt;
+&lt;li&gt;Attitude Determination and Control Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;certificate&#34;&gt;Certificate&lt;/h2&gt;
+&lt;p&gt;You can see it here: &lt;a href=&#34;https://www.udemy.com/certificate/UC-2ecbc704-01b2-44e4-bfc7-53979558478d/&#34;&gt;https://www.udemy.com/certificate/UC-2ecbc704-01b2-44e4-bfc7-53979558478d/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -125,7 +149,7 @@
 &lt;li&gt;Extravehicular activity&lt;/li&gt;
 &lt;li&gt;System safety&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;certificade&#34;&gt;Certificade&lt;/h2&gt;
+&lt;h2 id=&#34;certificate&#34;&gt;Certificate&lt;/h2&gt;
 &lt;p&gt;You can see it here: &lt;a href=&#34;https://courses.edx.org/certificates/07db4d186ed3457f84d712aac12fca1a&#34;&gt;https://courses.edx.org/certificates/07db4d186ed3457f84d712aac12fca1a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -302,7 +326,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-378516942&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-627985413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -312,7 +336,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-378516942&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-627985413&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

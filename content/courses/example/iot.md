@@ -20,6 +20,6 @@ type: book
 - Machine Learning and Artificial Intelligence to digital transformation.
 - Importance of security in the digitized world.
 
-## Certificade
+## Certificate
 
 You can see it here: https://drive.google.com/file/d/10ahoUcxwpDBHt-w0ndIIrWI56FSbI4N6/view?usp=sharing 

@@ -6,4 +6,4 @@ title: Courses
 type: page
 ---
 
-I earned the following courses and certificades:
+I earned the following courses and certificates:

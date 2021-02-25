@@ -22,6 +22,6 @@ type: book
 - Extravehicular activity
 - System safety
 
-## Certificade
+## Certificate
 
 You can see it here: https://courses.edx.org/certificates/07db4d186ed3457f84d712aac12fca1a

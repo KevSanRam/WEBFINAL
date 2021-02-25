@@ -11,7 +11,7 @@ type: book
 - Earned with Datacamp
 - Instructor: Datacamp
 - Type: Online course
-- Issued:  Dec. 21, 2020
+- Issued: Dec. 21, 2020
 
 ## What I learned?
 
@@ -19,6 +19,6 @@ type: book
 - Create lists, dictionaries, arrays, functions and loops.
 - Introduction to Numpy, Pandas and Matplotlib.
 
-## Certificade
+## Certificate
 
 You can see it here: https://drive.google.com/file/d/1wUp0CMrV5wpgcXgFdEhK32WApYg_EKKq/view?usp=sharing 
