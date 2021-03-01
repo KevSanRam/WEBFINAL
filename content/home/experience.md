@@ -30,8 +30,8 @@ experience:
     date_end: ''
     description: |2-
         Activities include:
-        * The most important activity in which I participate is in the observation the minerals and water presence near the surface of Mars planet.
-        * Teamwork with international students from other universities under virtual communication.
+        * The most important activity in which I participate is in the observation of minerals and water presence near the surface of Mars, specifically in Research and Systems engineering.
+        * Teamwork and virtual communication with international students from other universities.
         * Planning, development and research of space projects related to GIS and Remote Sensing.
         
   - title: Assistant Student

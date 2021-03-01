@@ -28,3 +28,5 @@ content:
 design:
   columns: '2'
 ---
+
+{{< figure src="travel.jpg" >}}

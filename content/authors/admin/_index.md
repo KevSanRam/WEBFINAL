@@ -9,7 +9,7 @@ education:
     institution: Fundação de Cultura, Difusão e Estudos Brasileiros
     year: 2017 - 2019  
   - course: High School Diploma
-    institution: Colegio Nuestra Señora del Pilar
+    institution: Nuestra Señora del Pilar
     year: 2018
 email: kevinandreyszrz@gmail.com 
 
@@ -27,7 +27,7 @@ organizations:
 - name: Asteria Space and Satellites
   url: https://www.asteria-space.com/ 
 
-role: Industrial Engineer Student and Research Engineer
+role: Industrial Engineer Student & Research Engineer
 
 social:
 #- icon: graduation-cap
@@ -52,6 +52,6 @@ title: Kevin Sánchez R.
 
 ---
 
-I'm a costa rican industrial engineering student at the University of Costa Rica. I also participate as Research Engineer, with GIS and Remote Sensing projects, in Asteria Space and Satellites Development, Edingburgh, UK. And I'm a current member of the Aerospace Engineering Group (GIA) of the University of Costa Rica.
+I'm a Costa Rican industrial engineering student at the University of Costa Rica. I also participate as Research Engineer, with GIS and Remote Sensing projects, in Asteria Space and Satellites Development, Edingburgh, UK. And I'm a current member of the Aerospace Engineering Group (GIA) of the University of Costa Rica.
 
-My interests include space industry, science and engineering, programming lenguages and industrialization. My favorite hobbies are related with playing instruments (such as guitar and piano), reading books and practice sports (soccer and volleyball).
+My interests include space industry and research, science and innovate engineering, programming lenguages. My favorite hobbies are related with reading books, playing instruments (such as guitar and piano), traveling and practice sports (soccer and volleyball).
